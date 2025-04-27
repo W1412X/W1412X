@@ -1,2 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W1412X&hide_progress=true)
-
+[![W1412X's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=W1412X)](https://github.com/W1412X/github-readme-stats)
